@@ -1,6 +1,8 @@
 ## Hi there, I'm Pustam Rai 👋  
 
-I'm a **MERN stack developer** passionate about building web applications. I love working with **MongoDB, Express, React, and Node.js**.
+I'm a **MERN stack developer** passionate about building modern, scalable web applications. I specialize in **MongoDB, Express.js, React, and Node.js**, and I’m constantly exploring new technologies to enhance my skills.  
+
+Let's connect and build something amazing together!
 
 ## 🚀 Tech Stack & Tools  
 
