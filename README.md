@@ -2,6 +2,11 @@
 
 I'm a **MERN stack developer** passionate about building modern, scalable web applications. I specialize in **MongoDB, Express.js, React, and Node.js**, and I’m constantly exploring new technologies to enhance my skills.  
 
+💡 **What I Do:**  
+- ⚡ Develop full-stack web applications with the MERN stack.  
+- 🎨 Create responsive and user-friendly UIs with **React & Tailwind CSS**.  
+- 🚀 Build RESTful APIs and integrate databases for seamless data management. 
+
 Let's connect and build something amazing together!
 
 ## 🚀 Tech Stack & Tools  
