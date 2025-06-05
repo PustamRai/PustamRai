@@ -5,10 +5,10 @@ I'm a JavaScript backend developer with experience building scalable web applica
 ---
 
 ### 💡 What I Do:
-- ⚙️ Build backend services and REST APIs with **Node.js**, **Express**, and **MongoDB**
-- 🧩 Develop full-stack apps using **Next.js**, **React**, and **TypeScript**
-- 🎨 Create responsive UIs with **React** and **Tailwind CSS**
-- 🚀 Write clean, maintainable code with a focus on performance and scalability
+-  Build backend services and REST APIs with **Node.js**, **Express**, and **MongoDB**
+-  Develop full-stack apps using **Next.js**, **React**, and **TypeScript**
+-  Create responsive UIs with **React** and **Tailwind CSS**
+-  Write clean, maintainable code with a focus on performance and scalability
 
 ---
 
