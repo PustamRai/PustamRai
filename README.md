@@ -1,17 +1,18 @@
 ## Hi there, I'm Pustam Rai 👋  
 
-I'm a JavaScript backend developer with experience building scalable web applications using Node.js, Express, and MongoDB. I also work with TypeScript and Next.js to handle full-stack development when needed, delivering clean and performant solutions end-to-end.
-What I Do:
+I'm a JavaScript backend developer with experience building scalable web applications using **Node.js**, **Express**, and **MongoDB**. I also work with **TypeScript** and **Next.js** to handle full-stack development when needed, delivering clean and performant solutions end-to-end.
 
-    Design and build backend APIs using Node.js, Express, and MongoDB
+---
 
-    Develop full-stack apps with Next.js and TypeScript
+###  What I Do:
+-  Design and build backend APIs using **Node.js**, **Express**, and **MongoDB**
+-  Develop full-stack apps with **Next.js** and **TypeScript**
+-  Write clean, maintainable code in **JavaScript** and **TypeScript**
+-  Focus on performance, scalability, and clean architecture
 
-    Write clean, maintainable code in JavaScript and TypeScript
+---
 
-    Focus on performance, scalability, and clean architecture 
-
-Let's connect and build something amazing together!
+Let’s connect and collaborate on something impactful!
 
 ## 🚀 Tech Stack & Tools  
 
