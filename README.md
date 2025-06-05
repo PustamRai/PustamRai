@@ -1,11 +1,15 @@
 ## Hi there, I'm Pustam Rai 👋  
 
-I'm a **MERN stack developer** passionate about building modern, scalable web applications. I specialize in **MongoDB, Express.js, React, and Node.js**, and I’m constantly exploring new technologies to enhance my skills.  
+I'm a JavaScript backend developer with experience building scalable web applications using Node.js, Express, and MongoDB. I also work with TypeScript and Next.js to handle full-stack development when needed, delivering clean and performant solutions end-to-end.
+What I Do:
 
-💡 **What I Do:**  
-- ⚡ Develop full-stack web applications with the MERN stack.  
-- 🎨 Create responsive and user-friendly UIs with **React & Tailwind CSS**.  
-- 🚀 Build RESTful APIs and integrate databases for seamless data management. 
+    Design and build backend APIs using Node.js, Express, and MongoDB
+
+    Develop full-stack apps with Next.js and TypeScript
+
+    Write clean, maintainable code in JavaScript and TypeScript
+
+    Focus on performance, scalability, and clean architecture 
 
 Let's connect and build something amazing together!
 
