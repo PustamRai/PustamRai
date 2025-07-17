@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Pustam Rai
 
-I'm a **JavaScript full-stack developer** passionate about building scalable and user-friendly web applications.
+I'm a ** full-stack developer** passionate about building scalable and user-friendly web applications.
 
 I specialize in **frontend development** using **Next.js**, **React**, and **TypeScript**, and I also work with **Node.js**, **Express**, and **MongoDB** to build full-stack solutions when needed.
 
