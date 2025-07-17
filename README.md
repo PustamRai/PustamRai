@@ -1,6 +1,8 @@
 ## 👋 Hi there, I'm Pustam Rai
 
-I'm a JavaScript backend developer with experience building scalable web applications using **Node.js**, **Express**, and **MongoDB**. I also work with **React**, **TypeScript**, and **Next.js** to deliver full-stack solutions when needed — from building robust APIs to crafting clean, responsive UIs.
+I'm a **JavaScript full-stack developer** passionate about building scalable and user-friendly web applications.
+
+🌐 I specialize in **frontend development** using **Next.js**, **React**, and **TypeScript**, and I also work with **Node.js**, **Express**, and **MongoDB** to build full-stack solutions when needed.
 
 ---
 
@@ -17,11 +19,9 @@ Let’s connect and build something impactful!
 
 ## 🚀 Tech Stack & Tools  
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)   
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) 
+- Frontend: `Next.js`, `React`, `TypeScript`, `Tailwind CSS`  
+- Backend: `Node.js`, `Express.js`, `MongoDB`  
+- Tools: `Git`, `REST API`, `Postman`,
 
 ## 🌐 Connect with Me  
 
