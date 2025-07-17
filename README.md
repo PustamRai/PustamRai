@@ -6,8 +6,7 @@ I'm a **JavaScript full-stack developer** passionate about building scalable and
 
 ---
 
-### 💡 What I Do:
-### 💻 What I Do
+###  What I Do
 
 🔹 **Frontend Development (Next.js + React)**  
 I build fast, responsive, and accessible user interfaces using Next.js, React, TypeScript, and Tailwind CSS. I focus on performance, clean code, and great user experience.
