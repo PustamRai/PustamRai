@@ -7,10 +7,21 @@ I'm a **JavaScript full-stack developer** passionate about building scalable and
 ---
 
 ### 💡 What I Do:
--  Build backend services and REST APIs with **Node.js**, **Express**, and **MongoDB**
--  Develop full-stack apps using **Next.js**, **React**, and **TypeScript**
--  Create responsive UIs with **React** and **Tailwind CSS**
--  Write clean, maintainable code with a focus on performance and scalability
+### 💻 What I Do
+
+🔹 **Frontend Development (Next.js + React)**  
+I build fast, responsive, and accessible user interfaces using Next.js, React, TypeScript, and Tailwind CSS. I focus on performance, clean code, and great user experience.
+
+🔹 **Backend Development (Node.js + Express)**  
+I create robust REST APIs and server-side logic using Node.js and Express, often paired with MongoDB for scalable database solutions.
+
+🔹 **Full-Stack Projects**  
+From UI to backend integration, I build complete web applications that solve real-world problems—handling authentication and CRUD operations.
+
+🔹 **Continuous Learning**  
+I'm constantly learning new tools and best practices to improve code quality, scalability, and performance. Currently exploring **AI integration** into Next.js projects.
+
+
 
 ---
 
